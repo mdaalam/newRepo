@@ -10,6 +10,7 @@ public class FSBase extends Base {
     public String password = "Locker12";
 
     // Adding line 1
+    // adding line 2
 
     public void fsLogin() throws InterruptedException {
         click(HomePage.signInLinkXpath);
