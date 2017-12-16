@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="470aaae4-affd-467f-aaad-73ab2367bd5b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Application/src/test/java/SearchTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Application/Application.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/Application/src/main/java/FSBase.java" afterPath="$PROJECT_DIR$/Application/src/main/java/FSBase.java" />
-      <change beforePath="$PROJECT_DIR$/Application/src/main/resources/TestRunner.xml" afterPath="$PROJECT_DIR$/Application/src/main/resources/TestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/Application/src/test/java/SignInTest.java" afterPath="$PROJECT_DIR$/Application/src/test/java/SignInTest.java" />
-      <change beforePath="$PROJECT_DIR$/Application/target/Application-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Application/target/Application-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/Application/target/classes/FSBase.class" afterPath="$PROJECT_DIR$/Application/target/classes/FSBase.class" />
-      <change beforePath="$PROJECT_DIR$/Application/target/classes/TestRunner.xml" afterPath="$PROJECT_DIR$/Application/target/classes/TestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/Application/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Application/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Application/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/Final-Score App running on Chrome Browser/Home Page.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/Final-Score App running on Chrome Browser/Home Page.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/Final-Score App running on Chrome Browser/Home Page.xml" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/Final-Score App running on Chrome Browser/Home Page.xml" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/TEST-TestSuite.xml" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/TestSuite.txt" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/emailable-report.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/index.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/junitreports/TEST-SignInTest.xml" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/junitreports/TEST-SignInTest.xml" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/classes.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/classes.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/methods-alphabetical.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/methods.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/methods.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/testng.xml.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/testng.xml.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/toc.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/old/Final-Score App running on Chrome Browser/toc.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/old/index.html" />
-      <change beforePath="$PROJECT_DIR$/Application/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Application/target/surefire-reports/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/Application/target/test-classes/SignInTest.class" afterPath="$PROJECT_DIR$/Application/target/test-classes/SignInTest.class" />
-      <change beforePath="$PROJECT_DIR$/FinalScore2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base.java" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Application/target/" />
@@ -57,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FSBase.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FSBase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/src/main/java/FSBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -93,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/Application/src/main/resources/TestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -109,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Base.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-393">
@@ -133,10 +102,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Application/src/test/java/SignInTest.java" />
-        <option value="$PROJECT_DIR$/Application/src/main/java/FSBase.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/Base.java" />
         <option value="$PROJECT_DIR$/Application/src/test/java/SearchTest.java" />
         <option value="$PROJECT_DIR$/Application/src/main/resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/Application/src/main/java/FSBase.java" />
       </list>
     </option>
   </component>
@@ -499,15 +468,7 @@
     <entry file="file://$PROJECT_DIR$/Application/src/main/resources/TestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/src/main/java/FSBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -524,6 +485,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-393">
           <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/java/FSBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>

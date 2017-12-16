@@ -9,6 +9,8 @@ public class FSBase extends Base {
     public String userName = "alam.write@gmail.com";
     public String password = "Locker12";
 
+    // Adding line 1
+
     public void fsLogin() throws InterruptedException {
         click(HomePage.signInLinkXpath);
         enterText(HomePage.userNameFieldXPath, userName);
